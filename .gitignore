@@ -1,0 +1,12 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.github/**
+*.csv
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+*.pkl
+*.cfg
